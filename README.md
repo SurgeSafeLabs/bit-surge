@@ -6,11 +6,7 @@
 
 ## Overview
 
-Architecture:
-![architecture](public/architecture/architecture.jpg)
 
-Operation workflow:
-![Operation workflow](public/architecture/workflow.jpg)
 
 
 
